@@ -1,0 +1,18 @@
+.home{
+	padding: 25px; width: 60%;
+	height: 410px;
+	margin-top: 40px;
+	background-color: white;
+	opacity: 0.9;
+	border-radius: 10px;
+}
+
+input[type="text"]{
+	width: 100%; height: 20px;
+	font-size: 13px;
+}
+tr,th,td {height: 20px; font-size: 20px;}
+select {width: 100%; font-size: 15px;}
+input {width: 50%; margin-top: 10px; height: 30px;}
+
+h2 {font-family: Calibri}
